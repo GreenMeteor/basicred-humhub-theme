@@ -20,3 +20,12 @@
 <meta name="msapplication-TileImage" content="<?= $this->theme->getBaseUrl(); ?>/ico/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 <!-- start: Favicon and Touch Icons -->
+
+<!-- start: JS file imports -->
+<?php $this->registerJsFile($this->theme->getBaseUrl() . '/js/jquery.nanoscroller.js'); ?>
+<?php $this->registerJsFile($this->theme->getBaseUrl() . '/js/jquery.nanoscroller.min.js'); ?>
+<?php $this->registerJsFile($this->theme->getBaseUrl() . '/js/overthrow-detect.js'); ?>
+<?php $this->registerJsFile($this->theme->getBaseUrl() . '/js/overthrow-init.js'); ?>
+<?php $this->registerJsFile($this->theme->getBaseUrl() . '/js/overthrow-polyfill.js'); ?>
+<?php $this->registerJsFile($this->theme->getBaseUrl() . '/js/overthrow-toss.js'); ?>
+<!-- end: JS -->
