@@ -1,4 +1,4 @@
-# Basic Red Theme
+# [Humhub](https://www.humhub.org/en) Basic Red Theme
 Humhub Default theme in Red
 
 ### Screenshots
