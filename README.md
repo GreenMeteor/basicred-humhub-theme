@@ -1,5 +1,5 @@
-# [Humhub](https://www.humhub.org/en) Basic Red Theme
-Humhub Default theme in Red
+# [HumHub](https://www.humhub.org/en) Basic Red Theme
+HumHub Default theme but in Red
 
 ### Screenshots
 #### Dashboard
@@ -7,3 +7,6 @@ Humhub Default theme in Red
 
 #### Profile
 ![](https://github.com/GreenVolume/basicred-humhub-theme/blob/master/screenshot/Screenshot_2.png)
+
+### Walkthroughs & Guides
+[MOVED HERE](https://greenmeteor.github.io/docs/)
